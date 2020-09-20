@@ -1,3 +1,4 @@
 Record your daily progress here!
 Made a login page (only the login-box in which info are to be entered).
 Corrected the Submit button in login-box and updated the pic of how it looks.
+Removed the extra tool box repositioned the forgot password and signup links.
