@@ -1,2 +1,3 @@
 Record your daily progress here!
-Made a login page (only the login-box in which are to be entered)
+Made a login page (only the login-box in which info are to be entered).
+Corrected the Submit button in login-box and updated the pic of how it looks.
