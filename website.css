@@ -58,7 +58,7 @@ body
 
  input[type="submit"]
  {
- 	margin-bottom: 28px;
+ 	margin: 45px;
  	width: 120px;
  	height: 32px;
  	background: #f44336;
@@ -78,3 +78,16 @@ body
  	background: #ff5722;
  	transition: 0.2s ease;
  }
+ a+a{
+ 	margin-left: 150px;
+ }
+ a:link {
+  color: maroon;
+  font-size: 13px;
+  position: absolute;
+  text-align: center;
+}
+
+a:hover {
+  color: blue;
+}
